@@ -8,8 +8,8 @@ The Fitness Tracker is a tool to let user keep track of workouts they have compl
   * Express
   
 # Links
-[Track Yo Sets](https://trackyosets.herokuapp.com/)
-[Github Repo](https://github.com/GilSolis/Workout_Tracker)
+ * [Track Yo Sets](https://trackyosets.herokuapp.com/)
+ * [Github Repo](https://github.com/GilSolis/Workout_Tracker)
 
 
 # Author
